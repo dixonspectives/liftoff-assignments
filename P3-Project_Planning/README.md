@@ -16,4 +16,4 @@ For this assignment, you'll create some initial plans for your project.
 
 ### Project Repo Link
 
-* [Household Chores](https://github.com/dixonspectives/Household-Chore-App)
+* [Household Chores App](https://github.com/dixonspectives/Household-Chore-App)
